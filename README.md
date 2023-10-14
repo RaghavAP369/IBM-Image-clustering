@@ -1,4 +1,6 @@
-# IBM-Image-clustering
+## IBM-Image-clustering
+
+*The given screenshots includes all outputs that was derived from the code*
 1. ![1](https://github.com/RaghavAP369/IBM-Image-clustering/assets/139637644/74a750e4-6ea1-47f7-8ba1-4b0c3ab1823a)
 
 2. ![2](https://github.com/RaghavAP369/IBM-Image-clustering/assets/139637644/1829c4ba-a427-48dc-a375-319aadce446a)
