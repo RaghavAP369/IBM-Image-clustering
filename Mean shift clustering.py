@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
+KINDLY NOTE :THE OUTPUT IS SHARED AS SCREENSHOT IN THE README FILE
 
 # In[50]:
 
